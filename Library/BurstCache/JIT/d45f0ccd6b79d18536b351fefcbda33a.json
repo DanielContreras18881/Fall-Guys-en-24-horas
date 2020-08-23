@@ -1,0 +1,28 @@
+{
+  "ExternalFunctions": [
+    {
+      "Name": "UnityEngine.Jobs.TransformAccessArray::GetSortedToUserIndex",
+      "FullName": "UnityEngine.Jobs.TransformAccessArray.GetSortedToUserIndex(System.IntPtr transformArrayIntPtr)_C0C973B479F327A0"
+    },
+    {
+      "Name": "UnityEngine.Jobs.TransformAccessArray::GetSortedTransformAccess",
+      "FullName": "UnityEngine.Jobs.TransformAccessArray.GetSortedTransformAccess(System.IntPtr transformArrayIntPtr)_470F5CB87EB36427"
+    },
+    {
+      "Name": "Unity.Jobs.LowLevel.Unsafe.JobsUtility::PatchBufferMinMaxRanges",
+      "FullName": "Unity.Jobs.LowLevel.Unsafe.JobsUtility.PatchBufferMinMaxRanges(System.IntPtr bufferRangePatchData, void* jobdata, int startIndex, int rangeSize)_9EB083F63620D8B8"
+    },
+    {
+      "Name": "UnityEngine.Jobs.TransformAccess::SetLocalRotation",
+      "FullName": "UnityEngine.Jobs.TransformAccess.SetLocalRotation(ref UnityEngine.Jobs.TransformAccess access, ref UnityEngine.Quaternion r)_66C029401516236E"
+    },
+    {
+      "Name": "UnityEngine.Quaternion::Internal_FromEulerRad_Injected",
+      "FullName": "UnityEngine.Quaternion.Internal_FromEulerRad_Injected(ref UnityEngine.Vector3 euler, ref UnityEngine.Quaternion ret)_24C74F722F6D0C35"
+    },
+    {
+      "Name": "burst_abort",
+      "FullName": "unused.burst_abort(System.String errorId, System.String message)_C2EC9A829AFAD7DD"
+    }
+  ]
+}
